@@ -38,6 +38,7 @@ PHP developer with 15+ years of experience building scalable backend systems. La
 ## Projects
 
 - 💻 [**hop**](https://github.com/danmartuszewski/hop) — Fast, elegant SSH connection manager with a TUI dashboard
+- 🎙️ [**TuneDocs**](https://tunedocs.com) — Podcast-style audio overviews generated from documentation
 - 📋 [**claude-code-kanban-board-solo**](https://github.com/danmartuszewski/claude-code-kanban-board-solo) — Solo kanban board for managing tasks with Claude Code
 - 🔌 [**mcp-manager**](https://github.com/danmartuszewski/mcp-manager) — Manager for MCP (Model Context Protocol) servers
 
@@ -55,9 +56,5 @@ PHP developer with 15+ years of experience building scalable backend systems. La
   <tr>
     <td width="60" align="center"><a href="https://dobrastrzelnica.pl"><img src="assets/dobrastrzelnica-logo.png" width="40" alt="DobraStrzelnica"/></a></td>
     <td><a href="https://dobrastrzelnica.pl"><b>Dobra Strzelnica</b></a><br/>Shooting range finder and booking platform for Poland</td>
-  </tr>
-  <tr>
-    <td width="60" align="center"><a href="https://tunedocs.com"><img src="assets/tunedocs-logo.png" width="40" alt="TuneDocs"/></a></td>
-    <td><a href="https://tunedocs.com"><b>TuneDocs</b></a><br/>Podcast-style audio overviews generated from documentation</td>
   </tr>
 </table>
