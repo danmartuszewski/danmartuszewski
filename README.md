@@ -37,10 +37,24 @@ PHP developer with 15+ years of experience building scalable backend systems. La
 
 ## Projects
 
-- <img src="assets/hop-logo.png" width="20" alt="hop"/> [**hop**](https://github.com/danmartuszewski/hop) — Fast, elegant SSH connection manager with a TUI dashboard
-- 🎙️ [**TuneDocs**](https://tunedocs.com) — Podcast-style audio overviews generated from documentation
-- 📋 [**claude-code-kanban-board-solo**](https://github.com/danmartuszewski/claude-code-kanban-board-solo) — Solo kanban board for managing tasks with Claude Code
-- 🔌 [**mcp-manager**](https://github.com/danmartuszewski/mcp-manager) — Manager for MCP (Model Context Protocol) servers
+<table>
+  <tr>
+    <td width="60" align="center"><a href="https://github.com/danmartuszewski/hop"><img src="assets/hop-logo.png" width="40" alt="hop"/></a></td>
+    <td><a href="https://github.com/danmartuszewski/hop"><b>hop</b></a><br/>Fast, elegant SSH connection manager with a TUI dashboard</td>
+  </tr>
+  <tr>
+    <td width="60" align="center"><a href="https://tunedocs.com"><img src="assets/tunedocs-logo.png" width="40" alt="TuneDocs"/></a></td>
+    <td><a href="https://tunedocs.com"><b>TuneDocs</b></a><br/>Podcast-style audio overviews generated from documentation</td>
+  </tr>
+  <tr>
+    <td width="60" align="center"><a href="https://github.com/danmartuszewski/claude-code-kanban-board-solo">📋</a></td>
+    <td><a href="https://github.com/danmartuszewski/claude-code-kanban-board-solo"><b>claude-code-kanban-board-solo</b></a><br/>Solo kanban board for managing tasks with Claude Code</td>
+  </tr>
+  <tr>
+    <td width="60" align="center"><a href="https://github.com/danmartuszewski/mcp-manager">🔌</a></td>
+    <td><a href="https://github.com/danmartuszewski/mcp-manager"><b>mcp-manager</b></a><br/>Manager for MCP (Model Context Protocol) servers</td>
+  </tr>
+</table>
 
 ## Products
 
