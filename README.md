@@ -47,11 +47,11 @@ PHP developer with 15+ years of experience building scalable backend systems. La
     <td><a href="https://tunedocs.com"><b>TuneDocs</b></a><br/>Podcast-style audio overviews generated from documentation</td>
   </tr>
   <tr>
-    <td width="60" align="center"><a href="https://github.com/danmartuszewski/claude-code-kanban-board-solo">📋</a></td>
+    <td width="60" align="center"><a href="https://github.com/danmartuszewski/claude-code-kanban-board-solo"><img src="assets/kanban-logo.png" width="40" alt="kanban board"/></a></td>
     <td><a href="https://github.com/danmartuszewski/claude-code-kanban-board-solo"><b>claude-code-kanban-board-solo</b></a><br/>Solo kanban board for managing tasks with Claude Code</td>
   </tr>
   <tr>
-    <td width="60" align="center"><a href="https://github.com/danmartuszewski/mcp-manager">🔌</a></td>
+    <td width="60" align="center"><a href="https://github.com/danmartuszewski/mcp-manager"><img src="assets/mcp-logo.png" width="40" alt="MCP Manager"/></a></td>
     <td><a href="https://github.com/danmartuszewski/mcp-manager"><b>mcp-manager</b></a><br/>Manager for MCP (Model Context Protocol) servers</td>
   </tr>
 </table>
