@@ -37,7 +37,7 @@ PHP developer with 15+ years of experience building scalable backend systems. La
 
 ## Projects
 
-- 💻 [**hop**](https://github.com/danmartuszewski/hop) — Fast, elegant SSH connection manager with a TUI dashboard
+- <img src="assets/hop-logo.png" width="20" alt="hop"/> [**hop**](https://github.com/danmartuszewski/hop) — Fast, elegant SSH connection manager with a TUI dashboard
 - 🎙️ [**TuneDocs**](https://tunedocs.com) — Podcast-style audio overviews generated from documentation
 - 📋 [**claude-code-kanban-board-solo**](https://github.com/danmartuszewski/claude-code-kanban-board-solo) — Solo kanban board for managing tasks with Claude Code
 - 🔌 [**mcp-manager**](https://github.com/danmartuszewski/mcp-manager) — Manager for MCP (Model Context Protocol) servers
