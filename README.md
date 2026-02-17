@@ -40,7 +40,7 @@ PHP developer with 15+ years of experience building scalable backend systems. La
 <table>
   <tr>
     <td width="60" align="center"><a href="https://github.com/danmartuszewski/hop"><img src="assets/hop-logo.png" width="40" alt="hop"/></a></td>
-    <td><a href="https://github.com/danmartuszewski/hop"><b>hop</b></a><br/>Fast, elegant SSH connection manager with a TUI dashboard</td>
+    <td><a href="https://github.com/danmartuszewski/hop"><b>hop</b></a><br/>Fast, elegant SSH connection manager with a TUI dashboard and MCP server</td>
   </tr>
   <tr>
     <td width="60" align="center"><a href="https://tunedocs.com"><img src="assets/tunedocs-logo.png" width="40" alt="TuneDocs"/></a></td>
