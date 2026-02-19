@@ -39,12 +39,16 @@ PHP developer with 15+ years of experience building scalable backend systems. La
 
 <table>
   <tr>
+    <td width="60" align="center"><a href="https://tunedocs.com"><img src="assets/tunedocs-logo.png" width="40" alt="TuneDocs"/></a></td>
+    <td><a href="https://tunedocs.com"><b>TuneDocs</b></a><br/>Podcast-style audio overviews generated from documentation</td>
+  </tr>
+  <tr>
     <td width="60" align="center"><a href="https://github.com/danmartuszewski/hop"><img src="assets/hop-logo.png" width="40" alt="hop"/></a></td>
     <td><a href="https://github.com/danmartuszewski/hop"><b>hop</b></a><br/>Fast, elegant SSH connection manager with a TUI dashboard and MCP server</td>
   </tr>
   <tr>
-    <td width="60" align="center"><a href="https://tunedocs.com"><img src="assets/tunedocs-logo.png" width="40" alt="TuneDocs"/></a></td>
-    <td><a href="https://tunedocs.com"><b>TuneDocs</b></a><br/>Podcast-style audio overviews generated from documentation</td>
+    <td width="60" align="center"><a href="https://github.com/danmartuszewski/export-key"><img src="assets/export-key-logo.png" width="40" alt="export-key"/></a></td>
+    <td><a href="https://github.com/danmartuszewski/export-key"><b>export-key</b></a><br/>Securely export API keys to your shell - nothing stored, nothing leaked</td>
   </tr>
   <tr>
     <td width="60" align="center"><a href="https://github.com/danmartuszewski/claude-code-kanban-board-solo"><img src="assets/kanban-logo.png" width="40" alt="kanban board"/></a></td>
