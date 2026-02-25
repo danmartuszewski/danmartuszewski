@@ -51,6 +51,10 @@ PHP developer with 15+ years of experience building scalable backend systems. La
     <td><a href="https://github.com/danmartuszewski/export-key"><b>export-key</b></a><br/>Securely export API keys to your shell - nothing stored, nothing leaked</td>
   </tr>
   <tr>
+    <td width="60" align="center"><a href="https://github.com/danmartuszewski/agentlint"><img src="assets/agentlint-logo.svg" width="40" alt="agentlint"/></a></td>
+    <td><a href="https://github.com/danmartuszewski/agentlint"><b>agentlint</b></a><br/>Claude Code skill that lints AI agent context files against research-backed rules</td>
+  </tr>
+  <tr>
     <td width="60" align="center"><a href="https://github.com/danmartuszewski/claude-code-kanban-board-solo"><img src="assets/kanban-logo.png" width="40" alt="kanban board"/></a></td>
     <td><a href="https://github.com/danmartuszewski/claude-code-kanban-board-solo"><b>claude-code-kanban-board-solo</b></a><br/>Solo kanban board for managing tasks with Claude Code</td>
   </tr>
