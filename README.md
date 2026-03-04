@@ -56,7 +56,7 @@ PHP developer with 15+ years of experience building scalable backend systems. La
   </tr>
   <tr>
     <td width="60" align="center"><a href="https://github.com/danmartuszewski/agents-hq"><img src="assets/agents-hq-logo.svg" width="40" alt="agents-hq"/></a></td>
-    <td><a href="https://github.com/danmartuszewski/agents-hq"><b>agents-hq</b></a><br/>Real-time AI agent team visualization dashboard</td>
+    <td><a href="https://github.com/danmartuszewski/agents-hq"><b>agents-hq</b></a><br/>Real-time AI agent team visualization dashboard for Claude Code</td>
   </tr>
   <tr>
     <td width="60" align="center"><a href="https://github.com/danmartuszewski/claude-code-kanban-board-solo"><img src="assets/kanban-logo.png" width="40" alt="kanban board"/></a></td>
