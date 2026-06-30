@@ -76,11 +76,15 @@ PHP developer with 15+ years of experience building scalable backend systems. La
     <td><a href="https://agentsmountain.com"><b>Agents Mountain</b></a><br/>AI-powered automation service for growing businesses</td>
   </tr>
   <tr>
-    <td width="60" align="center"><a href="https://cudobajki.pl"><img src="assets/cudobajki-logo.png" width="40" alt="Cudo Bajki"/></a></td>
-    <td><a href="https://cudobajki.pl"><b>Cudo Bajki</b></a><br/>Personalized bedtime stories with audio narration for children</td>
-  </tr>
-  <tr>
     <td width="60" align="center"><a href="https://dobrastrzelnica.pl"><img src="assets/dobrastrzelnica-logo.png" width="40" alt="DobraStrzelnica"/></a></td>
     <td><a href="https://dobrastrzelnica.pl"><b>Dobra Strzelnica</b></a><br/>Shooting range finder and booking platform for Poland</td>
+  </tr>
+  <tr>
+    <td width="60" align="center"><a href="https://transpanel.pl"><img src="assets/transpanel-logo.svg" width="40" alt="TransPanel"/></a></td>
+    <td><a href="https://transpanel.pl"><b>TransPanel</b></a><br/>Passenger transport management platform for Polish carriers</td>
+  </tr>
+  <tr>
+    <td width="60" align="center"><a href="https://cudobajki.pl"><img src="assets/cudobajki-logo.png" width="40" alt="Cudo Bajki"/></a></td>
+    <td><a href="https://cudobajki.pl"><b>Cudo Bajki</b></a><br/>Personalized bedtime stories with audio narration for children</td>
   </tr>
 </table>
